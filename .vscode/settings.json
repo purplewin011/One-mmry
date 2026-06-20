@@ -1,0 +1,13 @@
+{
+    "git.ignoreLimitWarning": true,
+    "cSpell.words": [
+        "onemmry",
+        "Mmry",
+        "Vite",
+        "tailwindcss",
+        "lucide",
+        "framer",
+        "autoprefixer"
+    ],
+    "cSpell.language": "en,zh-CN"
+}
